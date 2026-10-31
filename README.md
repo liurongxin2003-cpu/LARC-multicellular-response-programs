@@ -1,10 +1,10 @@
 # LARC multicellular response programs
 
-Reproducibility code and aggregate source data for CBAC-D-26-05807, a retrospective study of response-associated programs in locally advanced rectal cancer. This is the 2026-10-31 revision archive (version 1.1.0). Frozen definitions and original discovery findings are retained alongside selection-aware, incremental-model and technical-sensitivity results.
+Reproducibility code and aggregate source data for CBAC-D-26-05807, a retrospective study of response-associated programs in locally advanced rectal cancer. This is the 2026-10-31 revision archive (version 1.1.1). Frozen definitions and original discovery findings are retained alongside selection-aware, incremental-model and technical-sensitivity results.
 
 ## Actual release status
 
-GitHub repository: https://github.com/liurongxin2003-cpu/LARC-multicellular-response-programs. This archive is version 1.1.0. A Zenodo record and DOI have not yet been assigned; no DOI is claimed.
+GitHub repository: https://github.com/liurongxin2003-cpu/LARC-multicellular-response-programs. This archive is version 1.1.1. A Zenodo record and DOI have not yet been assigned; no DOI is claimed.
 
 ## Included evidence
 

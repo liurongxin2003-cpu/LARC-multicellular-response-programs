@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Cite the manuscript and this versioned code/aggregate-data archive."
 title: "LARC multicellular response programs"
 type: software
-version: "1.1.0"
+version: "1.1.1"
 authors:
   - family-names: Liu
     given-names: Rongxin
