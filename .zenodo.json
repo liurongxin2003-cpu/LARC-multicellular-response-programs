@@ -1,0 +1,24 @@
+{
+  "title": "LARC multicellular response programs: revision code and aggregate source data",
+  "upload_type": "software",
+  "description": "Versioned reproducibility code and aggregate results for manuscript CBAC-D-26-05807. Raw third-party matrices and CNP patient/sample/cell derivatives are excluded; obtain source data through CNGBdb/GEO. Patient response units and descriptive four-section evidence are distinguished.",
+  "creators": [
+    {
+      "name": "Liu, Rongxin",
+      "affiliation": "College of Life Sciences, Qingdao University",
+      "orcid": "0009-0003-5019-3664"
+    },
+    {
+      "name": "Niu, Yusheng",
+      "affiliation": "College of Life Sciences, Qingdao University"
+    }
+  ],
+  "version": "1.1.0",
+  "license": "mit",
+  "keywords": [
+    "LARC",
+    "single-cell",
+    "spatial transcriptomics",
+    "response-associated programs"
+  ]
+}

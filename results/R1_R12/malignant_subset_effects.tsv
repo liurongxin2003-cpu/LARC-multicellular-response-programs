@@ -1,0 +1,13 @@
+scope	program	NR_minus_CR	both_NR_above_both_CR
+all_bins	CAF	0.26793688265859916	True
+all_bins	CD8 T	0.8069727953083222	True
+all_bins	Endothelial	0.4686287334557757	True
+all_bins	Global	1.649653105155532	True
+all_bins	Malignant	0.38191115298981393	True
+all_bins	Myeloid	0.8299522931810666	True
+malignant_assigned_bins	CAF	0.1612366357859042	True
+malignant_assigned_bins	CD8 T	0.7466278039986797	True
+malignant_assigned_bins	Endothelial	0.5186934105918759	True
+malignant_assigned_bins	Global	1.4761018366487675	True
+malignant_assigned_bins	Malignant	0.35674359293082186	True
+malignant_assigned_bins	Myeloid	0.7575235544671006	True

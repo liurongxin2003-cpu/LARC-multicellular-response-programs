@@ -1,0 +1,13 @@
+dataset	program_source_cell_type	n_poor	n_good	target_only_g	CI_low	CI_high	scaling
+GSE209746	All_cells	70	27	0.44950127575180016	0.0009898313705343775	0.8980127201330659	eligible outcome-labeled tumor columns only; gene population SD; no reselection
+GSE209746	CAF_Fibroblast	70	27	0.4909452574269478	0.041574232647292986	0.9403162822066026	eligible outcome-labeled tumor columns only; gene population SD; no reselection
+GSE209746	CD8_T	70	27	0.5096598104413773	0.05987638602687462	0.95944323485588	eligible outcome-labeled tumor columns only; gene population SD; no reselection
+GSE209746	Endothelial	70	27	0.45563025292859327	0.0069963617849284065	0.9042641440722581	eligible outcome-labeled tumor columns only; gene population SD; no reselection
+GSE209746	Malignant_epithelial	70	27	0.42973555693116566	-0.018392081915034386	0.8778631957773657	eligible outcome-labeled tumor columns only; gene population SD; no reselection
+GSE209746	Myeloid_macrophage	70	27	0.2847764346036975	-0.16105692162218554	0.7306097908295806	eligible outcome-labeled tumor columns only; gene population SD; no reselection
+GSE87211	All_cells	166	35	0.020775282430701012	-0.3437878715726815	0.38533843643408355	eligible outcome-labeled tumor columns only; gene population SD; no reselection
+GSE87211	CAF_Fibroblast	166	35	0.10877270771352696	-0.2559398271646286	0.47348524259168245	eligible outcome-labeled tumor columns only; gene population SD; no reselection
+GSE87211	CD8_T	166	35	0.15144331259891194	-0.21341466153686686	0.5163012867346908	eligible outcome-labeled tumor columns only; gene population SD; no reselection
+GSE87211	Endothelial	166	35	0.19343062550903448	-0.1716169309727579	0.5584781819908269	eligible outcome-labeled tumor columns only; gene population SD; no reselection
+GSE87211	Malignant_epithelial	166	35	0.05699938027772496	-0.3076006967310373	0.4215994572864872	eligible outcome-labeled tumor columns only; gene population SD; no reselection
+GSE87211	Myeloid_macrophage	166	35	0.21294381065832357	-0.15220752243034785	0.578095143746995	eligible outcome-labeled tumor columns only; gene population SD; no reselection

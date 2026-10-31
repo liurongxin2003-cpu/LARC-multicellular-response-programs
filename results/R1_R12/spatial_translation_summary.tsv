@@ -1,0 +1,9 @@
+section	metric	observed_enrichment	n_translations	translation_p_one_sided	null_median	null_q025	null_q975	boundary
+ST-CR1	aggregate	-0.005017518866050376	199	0.865	-0.0031267601669906636	-0.005491953136125232	-0.0006772065711758075	within-section spatial compatibility; overlap-conditioned rigid-shift null, no patient-level inference
+ST-CR1	malignant	-0.012003773514784537	199	0.585	-0.010121391130841942	-0.017320883916537484	-0.00010183996857847429	within-section spatial compatibility; overlap-conditioned rigid-shift null, no patient-level inference
+ST-CR2	aggregate	0.005803311886725893	199	0.065	0.0012575943994291294	-0.014837923182204324	0.007615510266661985	within-section spatial compatibility; overlap-conditioned rigid-shift null, no patient-level inference
+ST-CR2	malignant	0.04265694978166787	199	0.015	0.008062967374517505	-0.048123044264699676	0.03733663821051901	within-section spatial compatibility; overlap-conditioned rigid-shift null, no patient-level inference
+ST-NR1	aggregate	0.007634459039994684	199	0.005	4.450812927453418e-05	-0.002367195183048307	0.00260068940836039	within-section spatial compatibility; overlap-conditioned rigid-shift null, no patient-level inference
+ST-NR1	malignant	0.05948125483848571	199	0.005	0.0001313080896675478	-0.009687463009011568	0.018267016628185317	within-section spatial compatibility; overlap-conditioned rigid-shift null, no patient-level inference
+ST-NR2	aggregate	0.006377633850453326	199	0.005	0.0016087935108992646	-0.0008248930432426333	0.004055717934591878	within-section spatial compatibility; overlap-conditioned rigid-shift null, no patient-level inference
+ST-NR2	malignant	0.05395723389289617	199	0.005	0.009888469818182422	-0.003975502150740799	0.02526192293104242	within-section spatial compatibility; overlap-conditioned rigid-shift null, no patient-level inference

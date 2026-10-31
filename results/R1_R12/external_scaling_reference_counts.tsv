@@ -1,0 +1,3 @@
+dataset	archived_reference_columns	target_only_reference_columns	reference_restriction
+GSE209746	114	97	labeled eligible pretreatment tumor samples only
+GSE87211	363	201	labeled eligible pretreatment tumor samples only

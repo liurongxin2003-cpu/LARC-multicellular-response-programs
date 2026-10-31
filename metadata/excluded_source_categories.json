@@ -1,0 +1,33 @@
+{
+  "excluded": [
+    {
+      "file": "Revision_Supplementary_Table_R17a_scrublet_cell_scores.tsv",
+      "reason": "library labels or patient/cell identifiers; author/reviewer source only"
+    },
+    {
+      "file": "Revision_Supplementary_Table_R17b_scrublet_library_summary.tsv",
+      "reason": "library labels or patient/cell identifiers; author/reviewer source only"
+    },
+    {
+      "file": "Revision_Supplementary_Table_R17c_LR_patient_scores.tsv",
+      "reason": "library labels or patient/cell identifiers; author/reviewer source only"
+    },
+    {
+      "file": "Revision_Supplementary_Table_R17e_cell_retention.tsv",
+      "reason": "library labels or patient/cell identifiers; author/reviewer source only"
+    },
+    {
+      "file": "Revision_Supplementary_Table_R17f_fixed_program_patient_scores.tsv",
+      "reason": "library labels or patient/cell identifiers; author/reviewer source only"
+    }
+  ],
+  "other_exclusions": [
+    "all third-party raw matrices",
+    "all barcode/cell-level expression derivatives",
+    "CNP patient-level predictions and pseudobulks",
+    "individual clinical metadata",
+    "reviewer comments/responses and unpublished manuscript drafts",
+    "local execution logs and credentials",
+    "runtime binaries"
+  ]
+}

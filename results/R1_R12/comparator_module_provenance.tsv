@@ -1,0 +1,16 @@
+module_name	source_name	source	source_url	n_genes	role
+HALLMARK_EMT	Epithelial Mesenchymal Transition	Enrichr MSigDB_Hallmark_2020	https://maayanlab.cloud/Enrichr/geneSetLibrary?mode=text&libraryName=MSigDB_Hallmark_2020	200	canonical process comparator
+HALLMARK_TGFB	TGF-beta Signaling	Enrichr MSigDB_Hallmark_2020	https://maayanlab.cloud/Enrichr/geneSetLibrary?mode=text&libraryName=MSigDB_Hallmark_2020	54	canonical process comparator
+HALLMARK_HYPOXIA	Hypoxia	Enrichr MSigDB_Hallmark_2020	https://maayanlab.cloud/Enrichr/geneSetLibrary?mode=text&libraryName=MSigDB_Hallmark_2020	200	canonical process comparator
+HALLMARK_IFNG	Interferon Gamma Response	Enrichr MSigDB_Hallmark_2020	https://maayanlab.cloud/Enrichr/geneSetLibrary?mode=text&libraryName=MSigDB_Hallmark_2020	200	canonical process comparator
+HALLMARK_IFNA	Interferon Alpha Response	Enrichr MSigDB_Hallmark_2020	https://maayanlab.cloud/Enrichr/geneSetLibrary?mode=text&libraryName=MSigDB_Hallmark_2020	97	canonical process comparator
+HALLMARK_E2F	E2F Targets	Enrichr MSigDB_Hallmark_2020	https://maayanlab.cloud/Enrichr/geneSetLibrary?mode=text&libraryName=MSigDB_Hallmark_2020	200	canonical process comparator
+HALLMARK_G2M	G2-M Checkpoint	Enrichr MSigDB_Hallmark_2020	https://maayanlab.cloud/Enrichr/geneSetLibrary?mode=text&libraryName=MSigDB_Hallmark_2020	200	canonical process comparator
+HALLMARK_INFLAMMATORY	Inflammatory Response	Enrichr MSigDB_Hallmark_2020	https://maayanlab.cloud/Enrichr/geneSetLibrary?mode=text&libraryName=MSigDB_Hallmark_2020	200	canonical process comparator
+HALLMARK_ANGIOGENESIS	Angiogenesis	Enrichr MSigDB_Hallmark_2020	https://maayanlab.cloud/Enrichr/geneSetLibrary?mode=text&libraryName=MSigDB_Hallmark_2020	36	canonical process comparator
+CAF_FAP_source	CAF_FAP_source	frozen Phase 2 comparator module	D:\codex\LARC_NAC_CNP0004138_Phase2_StereoSeq_SpatialLocalization\scripts\spatial_config.py	13	contextual comparator; not a universal canonical signature
+CD8_cytotoxic_exhaustion	CD8_cytotoxic_exhaustion	frozen Phase 2 comparator module	D:\codex\LARC_NAC_CNP0004138_Phase2_StereoSeq_SpatialLocalization\scripts\spatial_config.py	15	contextual comparator; not a universal canonical signature
+Myeloid_inflammatory_suppressive	Myeloid_inflammatory_suppressive	frozen Phase 2 comparator module	D:\codex\LARC_NAC_CNP0004138_Phase2_StereoSeq_SpatialLocalization\scripts\spatial_config.py	14	contextual comparator; not a universal canonical signature
+Endothelial_remodeling_angiogenesis	Endothelial_remodeling_angiogenesis	frozen Phase 2 comparator module	D:\codex\LARC_NAC_CNP0004138_Phase2_StereoSeq_SpatialLocalization\scripts\spatial_config.py	13	contextual comparator; not a universal canonical signature
+Source_pCAF	Source_pCAF	frozen Phase 2 comparator module	D:\codex\LARC_NAC_CNP0004138_Phase2_StereoSeq_SpatialLocalization\scripts\spatial_config.py	9	contextual comparator; not a universal canonical signature
+Source_nCAF	Source_nCAF	frozen Phase 2 comparator module	D:\codex\LARC_NAC_CNP0004138_Phase2_StereoSeq_SpatialLocalization\scripts\spatial_config.py	9	contextual comparator; not a universal canonical signature
